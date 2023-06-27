@@ -1,0 +1,7 @@
+# Number
+number = ((4 + 4) - 3) * (10 - 7) - (5 + 2) / (2 - 1)
+print("The final result is:", number)
+
+# Colour from ASCII char
+colour = chr(103) + chr(114) + chr(101) +	chr(101) + chr(110)
+print("The colour is:", colour)
